@@ -10,6 +10,7 @@ class Person
     person.partner = self
   end
 
+
 end
 
 beyonce = Person.new("Beyonce")
